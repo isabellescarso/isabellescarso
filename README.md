@@ -29,18 +29,6 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
-
-## 🧩 What I build
-
-- Scalable REST APIs  
-- Event-driven architectures  
-- Data pipelines  
-- AI-integrated systems  
-- Angular web applications  
-
----
-
 ## ⚙️ Engineering Practices
 
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=flat-square)
